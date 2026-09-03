@@ -16,9 +16,12 @@
 
 I'm a **Flutter Mobile Developer** passionate about crafting clean, performant, cross-platform applications with **Dart**. I care about **architecture**, **user experience**, and **writing code that others love reading**.
 
-- 🎯 Focused on **Flutter & Dart** — with hands-on **React** and **Node.js** experience to build products end-to-end
-- 🧠 Deep-diving into **Clean Architecture**, **Riverpod**, and **advanced state management**
-- 🔭 Currently building an **Islamic Companion app** — a showcase of real-world Flutter skills
+### What I Do
+- 🎯 **Mobile Development** — I specialize in **Flutter & Dart**, building production-ready apps that run beautifully on Android, iOS & Web
+- 🏗️ **Architecture** — I design apps using **Clean Architecture**, **Provider**, **Riverpod**, and **BLoC** patterns
+- 🔌 **API Integration** — experienced with **REST APIs**, **Firebase**, authentication flows & real-time data
+- 🎨 **UI/UX** — I craft pixel-perfect interfaces with **Material Design**, custom themes & smooth animations
+- 🌐 **Fullstack awareness** — hands-on with **React**, **Node.js** & **Prisma** for end-to-end product building
 - 📍 Based in **Egypt** · Open to **remote & on-site** opportunities
 
 ---
@@ -71,8 +74,9 @@ Have a question, need guidance, or want to collaborate on teaching content?
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| 🕌 [Islamic Companion](https://github.com/shehab3269/islamic_app) | Prayer times, Quran & athkar with Clean Architecture | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/-Riverpod-8BE9FD) |
-| 📖 [Alshuhub](https://github.com/shehab3269/alshuhub) | Islamic content website (Quran, hadith, guidance) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| 🕌 [**Islamic Companion**](https://github.com/shehab3269/islamic_app) | A full Flutter app with **prayer times**, **Quran**, **daily athkar** & **Clean Architecture** — built to showcase real-world mobile development skills | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688) |
+| 📖 [**Alshuhub**](https://github.com/shehab3269/alshuhub) | A modern Islamic content website featuring the **Holy Quran**, **hadith**, **prayers** & spiritual guidance — built with **React 18** + **TailwindCSS** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
+| 👨‍💻 [**Portfolio**](https://github.com/shehab3269/shehab) | Personal portfolio website — **HTML**, **CSS** & **JavaScript** — showcasing projects & skills | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -80,6 +84,12 @@ Have a question, need guidance, or want to collaborate on teaching content?
   <img src="https://img.shields.io/badge/-Riverpod-EF3939?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Clean%20Architecture-6C5CE7?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,tailwind,nodejs,express,firebase,git,prisma&perline=6" />
+  </a>
 </p>
 
 ---
