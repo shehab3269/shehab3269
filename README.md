@@ -40,23 +40,19 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+%E2%9A%99%EF%B8%8F+Dart+%F0%9F%9A%80" alt="Flutter animation" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%E2%9A%A1+JavaScript+%F0%9F%92%A1" alt="React animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=339933&center=true&vCenter=true&width=500&lines=Node.js+%F0%9F%9B%A0%EF%B8%8F+Firebase+%F0%9F%9A%AB" alt="Backend animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=E34F26&center=true&vCenter=true&width=500&lines=HTML5+%F0%9F%8E%A8+CSS3+%F0%9F%8E%A7+Tailwind+%F0%9F%9B%B6" alt="Frontend animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=F05032&center=true&vCenter=true&width=500&lines=Git+%F0%9F%93%82+Clean+Architecture+%F0%9F%8F%97+REST+APIs+%F0%9F%94%97" alt="Tools animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=0E7C66&center=true&vCenter=true&width=400&lines=Flutter+%E2%9A%99%EF%B8%8F+React+%E2%9A%A1+Node.js+%F0%9F%9B%A0+Firebase+%F0%9F%9A%AB" alt="Skills typing" />
 </p>
 
 <p align="center">
