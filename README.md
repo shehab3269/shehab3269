@@ -54,6 +54,27 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,tailwind,nodejs,express,firebase,git,prisma&perline=6" alt="Tech skills" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehab3269&show_icons=true&count_private=true&hide_border=true&theme=vue-dark&bg_color=0d1117&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab3269&layout=compact&langs_count=8&hide_border=true&theme=vue-dark&bg_color=0d1117" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehab3269&theme=vue-dark&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shehab3269&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub trophies" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
