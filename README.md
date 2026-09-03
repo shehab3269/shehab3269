@@ -58,6 +58,10 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,tailwind,nodejs,express,firebase,git,prisma&perline=6" alt="Tech skills" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=300&color=0E7C66&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+%F0%9F%9A%80;Clean+Architecture+%26+Riverpod;React+%26+Node.js;Firebase+%26+REST+APIs;Building+products+end+to+end" alt="Skills typing animation" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -84,15 +88,6 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
 | 🕌 [Islamic Companion](https://github.com/shehab3269/islamic_app) | Flutter app with prayer times, Quran & daily athkar — Clean Architecture | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
 | 📖 [Alshuhub](https://github.com/shehab3269/alshuhub) | Islamic content website (Quran, hadith, prayers) — React & Vite | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
 | 👨‍💻 [Portfolio](https://github.com/shehab3269/shehab) | Personal portfolio site — HTML, CSS & JavaScript | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehab3269&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab3269&layout=compact&hide_border=true&theme=vue-dark" width="40%"/>
-</p>
 
 ---
 
