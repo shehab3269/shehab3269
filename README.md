@@ -39,27 +39,44 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
 
 ## 🧰 Tech Stack
 
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,tailwind,nodejs,express,firebase,git,prisma&perline=6" alt="Tech skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+%E2%9A%99%EF%B8%8F+Dart+%F0%9F%9A%80" alt="Flutter animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=300&color=0E7C66&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+%F0%9F%9A%80;Clean+Architecture+%26+Riverpod;React+%26+Node.js;Firebase+%26+REST+APIs;Building+products+end+to+end" alt="Skills typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%E2%9A%A1+JavaScript+%F0%9F%92%A1" alt="React animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=339933&center=true&vCenter=true&width=500&lines=Node.js+%F0%9F%9B%A0%EF%B8%8F+Firebase+%F0%9F%9A%AB" alt="Backend animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=E34F26&center=true&vCenter=true&width=500&lines=HTML5+%F0%9F%8E%A8+CSS3+%F0%9F%8E%A7+Tailwind+%F0%9F%9B%B6" alt="Frontend animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=F05032&center=true&vCenter=true&width=500&lines=Git+%F0%9F%93%82+Clean+Architecture+%F0%9F%8F%97+REST+APIs+%F0%9F%94%97" alt="Tools animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+%E2%9A%99%EF%B8%8F+Dart+%F0%9F%9A%80" alt="Flutter animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%E2%9A%A1+JavaScript+%F0%9F%92%A1" alt="React animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=339933&center=true&vCenter=true&width=500&lines=Node.js+%F0%9F%9B%A0%EF%B8%8F+Firebase+%F0%9F%9A%AB" alt="Backend animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=E34F26&center=true&vCenter=true&width=500&lines=HTML5+%F0%9F%8E%A8+CSS3+%F0%9F%8E%A7+Tailwind+%F0%9F%9B%B6" alt="Frontend animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=F05032&center=true&vCenter=true&width=500&lines=Git+%F0%9F%93%82+Clean+Architecture+%F0%9F%8F%97+REST+APIs+%F0%9F%94%97" alt="Tools animation" />
 </p>
 
 ---
@@ -102,10 +119,18 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
 
 ## 🤝 Let's Connect
 
-- 🌐 [Portfolio](https://shehab-medhat.site)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shehab-medhat-0b32b7321/)
-- 📬 [Email](mailto:sm@shehab-medhat.site)
-- 📌 **Open to:** Flutter roles · Consulting · Mentorship · Course collaborations
+<p align="center">
+  <a href="https://shehab-medhat.site"><img src="https://img.shields.io/badge/Portfolio-0E7C66?style=for-the-badge&logo=icloud&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shehab-medhat-0b32b7321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shehab3269"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sm@shehab-medhat.site"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Flutter%20roles-0E7C66?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consulting-Available-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mentorship-Happy%20to%20help-3498DB?style=for-the-badge" />
+</p>
 
 ---
 
