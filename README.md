@@ -45,26 +45,6 @@ I'm passionate about **teaching Flutter & mobile development** — creating begi
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+%E2%9A%99%EF%B8%8F+Dart+%F0%9F%9A%80" alt="Flutter animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%E2%9A%A1+JavaScript+%F0%9F%92%A1" alt="React animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=339933&center=true&vCenter=true&width=500&lines=Node.js+%F0%9F%9B%A0%EF%B8%8F+Firebase+%F0%9F%9A%AB" alt="Backend animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=E34F26&center=true&vCenter=true&width=500&lines=HTML5+%F0%9F%8E%A8+CSS3+%F0%9F%8E%A7+Tailwind+%F0%9F%9B%B6" alt="Frontend animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=F05032&center=true&vCenter=true&width=500&lines=Git+%F0%9F%93%82+Clean+Architecture+%F0%9F%8F%97+REST+APIs+%F0%9F%94%97" alt="Tools animation" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
