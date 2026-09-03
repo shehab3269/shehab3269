@@ -71,33 +71,16 @@ Have a question, need guidance, or want to collaborate on teaching content?
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| 🕌 [Islamic Companion](https://github.com/shehab3269/islamic_app) | Prayer times, Quran & athkar with Clean Architecture | Flutter, Riverpod, REST API |
-| 📖 [Alshuhub](https://github.com/shehab3269/alshuhub) | Islamic content website (Quran, hadith, guidance) | JavaScript, HTML, CSS |
+| 🕌 [Islamic Companion](https://github.com/shehab3269/islamic_app) | Prayer times, Quran & athkar with Clean Architecture | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/-Riverpod-8BE9FD) |
+| 📖 [Alshuhub](https://github.com/shehab3269/alshuhub) | Islamic content website (Quran, hadith, guidance) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="65" height="65" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/dart-icon.svg" width="65" height="65" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
-      <br>REST API
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Riverpod-EF3939?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Clean%20Architecture-6C5CE7?style=for-the-badge" />
+</p>
 
 ---
 
@@ -134,8 +117,9 @@ Have a question, need guidance, or want to collaborate on teaching content?
 
 <p align="center">
   <a href="https://shehab-medhat.site"><img src="https://img.shields.io/badge/Portfolio-0E7C66?style=for-the-badge&logo=icloud&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shehab-medhat-0b32b7321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/shehab3269"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sm@shehab-medhat.site"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 > 📌 **Open to:** Flutter roles · Consulting · Mentorship · Course collaborations
