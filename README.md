@@ -23,6 +23,31 @@ I'm a **Flutter Mobile Developer** passionate about crafting clean, performant, 
 
 ---
 
+## 🎓 Teaching & Content
+
+> *"The best way to learn is to teach. The best way to grow is to share."*
+
+I'm passionate about **teaching Flutter & mobile development**. I create
+clear, beginner-friendly content, offer **1:1 consulting & mentorship**
+for developers just starting out, and I'm building **online courses** to
+share what I've learned the hard way — so others don't have to.
+
+- 📚 **Upcoming Courses** — Flutter from zero to production (watch this space!)
+- 💬 **Consulting & Mentorship** — happy to review your code, plan your app, or unblock you
+- 🧑‍🏫 **Teaching Style** — practical, visual, building real apps step by step
+- ✍️ **Content** — tutorials, explanations & breakdowns for aspiring mobile devs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Educator-%E2%9C%8D%EF%B8%8F-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Content%20Creator-%F0%9F%8E%AC-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mentor-%F0%9F%A4%9D-blue?style=for-the-badge" />
+</p>
+
+Have a question, need guidance, or want to collaborate on teaching content?
+**Let's connect** 👇
+
+---
+
 ## 🧰 Tech Stack
 
 ### Mobile & Frontend
@@ -98,9 +123,10 @@ I'm a **Flutter Mobile Developer** passionate about crafting clean, performant, 
 ## 🏆 What I'm Focused On
 
 - 🔭 **Building** — shipping polished mobile apps, not just demos
+- 🎓 **Teaching** — creating Flutter courses, tutorials & consulting material
 - 📚 **Learning** — Riverpod 3.x, GoRouter, Firebase integration
 - 🤝 **Collaborating** — open to contributing to meaningful open-source projects
-- 💬 **Sharing** — happy to help anyone getting started with Flutter
+- 💬 **Mentoring** — helping aspiring Flutter devs get their first role
 
 ---
 
@@ -108,10 +134,11 @@ I'm a **Flutter Mobile Developer** passionate about crafting clean, performant, 
 
 <p align="center">
   <a href="https://shehab-medhat.site"><img src="https://img.shields.io/badge/Portfolio-0E7C66?style=for-the-badge&logo=icloud&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/shehab3269"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+> 📌 **Open to:** Flutter roles · Consulting · Mentorship · Course collaborations
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -120,7 +147,7 @@ I'm a **Flutter Mobile Developer** passionate about crafting clean, performant, 
 ---
 
 <div align="center">
-  <i>Made with ❤️ by <b>Shehab Medhat</b> — Flutter Developer</i>
+  <i>Made with ❤️ by <b>Shehab Medhat</b> — Flutter Developer & Educator</i>
   <br/>
-  <sub>Profile views gift you inspiration. Let's build something great together.</sub>
+  <sub>Let's build something great together — and teach others along the way.</sub>
 </div>
